@@ -1,0 +1,51 @@
+#greenRupee{
+height: 40px;  
+width: 40px;
+
+}
+
+#blueRupee{
+height: 40px;
+width: 40px;
+
+}
+
+#purpRupee{
+height: 40px;
+width: 40px;
+
+
+}
+
+#redRupee{
+height:40px;
+width: 40px;
+
+
+}
+
+
+#crystalBtns{
+    width: 100%;
+    
+    
+}
+
+
+
+.btn button{
+    padding: 10px 24px; 
+    cursor: pointer; 
+    float: left;
+  
+}
+
+.btn button:not(:last-child){
+    border-right: none;
+}
+
+#crystalBtn:after {
+    content: "";
+    clear: both;
+    display: table;
+  }
