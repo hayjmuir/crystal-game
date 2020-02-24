@@ -17,4 +17,9 @@ $("#crystalBtn1 , #crystalBtn2 , #crystalBtn3 , #crystalBtn4").on("click" , func
    scoringTotal += parseInt($(this).val());
     $("#scoringCard").html(scoringTotal);
 
+
+   
+   
+
+
       });
