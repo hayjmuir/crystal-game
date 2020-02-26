@@ -1,3 +1,18 @@
+
+
+body{
+    background-image: url(../images/hyrule.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+
+
+
+
+
 #greenRupee{
 height: 40px;  
 width: 40px;
